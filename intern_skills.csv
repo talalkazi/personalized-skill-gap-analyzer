@@ -1,0 +1,601 @@
+Intern_ID,Target_Role,Industry_Category,Skills,Experience_Months,Education_Level
+INT0001,Business Development,BUSINESS-DEVELOPMENT,"business development, communication, creativity, data analysis, negotiation, powerpoint, presentation skills",9,Bachelor's
+INT0002,Business Development,BUSINESS-DEVELOPMENT,"b2b sales, business development, creativity, market analysis, microsoft powerpoint, presentation skills, team collaboration",6,Master's
+INT0003,Business Development,BUSINESS-DEVELOPMENT,"communication, prioritization, project management, relationship building, relationship management, sales forecasting",12,Bachelor's
+INT0004,Business Development,BUSINESS-DEVELOPMENT,"email marketing, focus, influence, lead generation, motivation, presentation skills, problem solving, sales techniques",1,Bachelor's
+INT0005,Business Development,BUSINESS-DEVELOPMENT,"communication, crm, crm software, market analysis, problem solving, teamwork",12,Bachelor's
+INT0006,Business Development,BUSINESS-DEVELOPMENT,"consultative selling, crm, microsoft excel, microsoft outlook, planning, presentation skills, problem solving, project management, relationship building",4,Bachelor's
+INT0007,Business Development,BUSINESS-DEVELOPMENT,"b2b sales, communication, crm tools, customer relationship management, problem solving",4,Bachelor's
+INT0008,Business Development,BUSINESS-DEVELOPMENT,"account management, adaptability, analytical thinking, collaboration, customer focus, lead generation, microsoft word, negotiation, relationship building, self-starter",4,Bachelor's
+INT0009,Business Development,BUSINESS-DEVELOPMENT,"adaptability, communication, customer service, event planning, market research",7,Bachelor's
+INT0010,Business Development,BUSINESS-DEVELOPMENT,"analytical thinking, communication, creativity, critical thinking, data analysis, positive attitude, presentation skills, time management",11,Bachelor's
+INT0011,Business Development,BUSINESS-DEVELOPMENT,"adaptability, collaboration, communication, customer service orientation, data management, teamwork, time management",9,Bachelor's
+INT0012,Business Development,BUSINESS-DEVELOPMENT,"crm, financial analysis, interpersonal skills, project management, relationship building",9,Bachelor's
+INT0013,Business Development,BUSINESS-DEVELOPMENT,"adaptability, b2b sales, communication, data analysis, microsoft office suite, pipeline management, problem solving, research, sales experience",2,Diploma
+INT0014,Business Development,BUSINESS-DEVELOPMENT,"consultative selling, influencing skills, lead generation, negotiation, professionalism",9,Master's
+INT0015,Business Development,BUSINESS-DEVELOPMENT,"consultative selling, crm software, customer service, financial analysis, lead generation, teamwork",12,Bachelor's
+INT0016,Business Development,BUSINESS-DEVELOPMENT,"communication, data analysis, networking, problem solving, team management, time management",10,Bachelor's
+INT0017,Business Development,BUSINESS-DEVELOPMENT,"business acumen, communication, market analysis, market research, mentoring, microsoft office suite",4,Master's
+INT0018,Business Development,BUSINESS-DEVELOPMENT,"b2b sales, collaboration, communication, customer relationship management, negotiation, results-oriented, sales, sales management, time management",7,Master's
+INT0019,Business Development,BUSINESS-DEVELOPMENT,"communication, leadership, marketing, microsoft excel, motivation, sales strategy",4,Bachelor's
+INT0020,Business Development,BUSINESS-DEVELOPMENT,"collaboration, communication, competitive analysis, customer service, data analysis, motivation, organization, presentation skills, teamwork",1,Diploma
+INT0021,Business Development,BUSINESS-DEVELOPMENT,"adaptability, cold calling, crm software, relationship building, sales pipeline management",1,Master's
+INT0022,Business Development,BUSINESS-DEVELOPMENT,"customer service, problem solving, research, sales, teamwork, time management",11,Diploma
+INT0023,Business Development,BUSINESS-DEVELOPMENT,"adaptability, communication, contract negotiation, interpersonal skills, market analysis, results-oriented, sales experience",3,Diploma
+INT0024,Business Development,BUSINESS-DEVELOPMENT,"coaching, communication, creativity, networking, self-motivation",7,Bachelor's
+INT0025,Business Development,BUSINESS-DEVELOPMENT,"communication, customer relationship management, listening, proposal development, sales proposals",10,Diploma
+INT0026,Business Development,BUSINESS-DEVELOPMENT,"flexibility, interpersonal skills, microsoft excel, negotiation, networking, teamwork, time management, zoominfo",1,Bachelor's
+INT0027,Business Development,BUSINESS-DEVELOPMENT,"adaptability, communication, customer relationship management, lead generation, market research, multi-tasking, negotiation",6,Bachelor's
+INT0028,Business Development,BUSINESS-DEVELOPMENT,"business development, marketing, project management, relationship building, results-driven, strategic planning, strategic thinking",5,Diploma
+INT0029,Business Development,BUSINESS-DEVELOPMENT,"communication, crm software, crm systems, outbound prospecting, persuasion, relationship building, sales strategy development, salesforce, teamwork",9,Bachelor's
+INT0030,Business Development,BUSINESS-DEVELOPMENT,"communication, data analysis, email marketing, enthusiasm, negotiation, organizational skills, work ethic",3,Bachelor's
+INT0031,Business Development,BUSINESS-DEVELOPMENT,"business development, collaboration, communication, crm (salesforce), presentation skills, problem solving, relationship building, salesforce, strategic thinking",3,Master's
+INT0032,Business Development,BUSINESS-DEVELOPMENT,"crm software, interpersonal skills, mentoring, sales strategy, team management",11,Bachelor's
+INT0033,Business Development,BUSINESS-DEVELOPMENT,"account management, data management, independence, presentation skills, self-discipline",3,Bachelor's
+INT0034,Business Development,BUSINESS-DEVELOPMENT,"business development, data analytics, financial management, goal-oriented, organizational skills, prospecting",5,Bachelor's
+INT0035,Business Development,BUSINESS-DEVELOPMENT,"budget management, communication, financial analysis, market analysis, professionalism, sales",6,Master's
+INT0036,Business Development,BUSINESS-DEVELOPMENT,"attention to detail, communication, financial analysis, initiative, market analysis, problem solving, teamwork",6,Bachelor's
+INT0037,Business Development,BUSINESS-DEVELOPMENT,"adaptability, business development, customer focus, networking, organizational skills, persuasion, product development, proposal development, team leadership, teamwork",7,Diploma
+INT0038,Business Development,BUSINESS-DEVELOPMENT,"adaptability, consultative selling, data analysis, influence, interpersonal skills, problem solving, project management",1,Master's
+INT0039,Business Development,BUSINESS-DEVELOPMENT,"attention to detail, communication, lead generation, leadership, networking, organizational skills, outbound prospecting, problem solving, sales pipeline management",11,Bachelor's
+INT0040,Business Development,BUSINESS-DEVELOPMENT,"interpersonal skills, leadership, negotiation, problem solving, teamwork",11,Master's
+INT0041,Business Development,BUSINESS-DEVELOPMENT,"business development, collaboration, digital marketing, interpersonal skills, market intelligence, networking, presentation skills, teamwork",10,Diploma
+INT0042,Business Development,BUSINESS-DEVELOPMENT,"adaptability, attention to detail, coaching, collaboration, contract negotiation, healthcare knowledge, networking, organizational skills, teamwork",6,Diploma
+INT0043,Business Development,BUSINESS-DEVELOPMENT,"account management, initiative, market analysis, networking, team collaboration",1,Bachelor's
+INT0044,Business Development,BUSINESS-DEVELOPMENT,"analytical thinking, customer relationship management, project management, research, sales, time management",8,Master's
+INT0045,Business Development,BUSINESS-DEVELOPMENT,"account management, business development, communication, customer service, data analysis, marketing, sales, stakeholder management",8,Diploma
+INT0046,Business Development,BUSINESS-DEVELOPMENT,"lead generation, negotiation, presentation skills, sales experience, time management",10,Diploma
+INT0047,Business Development,BUSINESS-DEVELOPMENT,"adaptability, crm systems, curiosity, leadership, presentation skills, project management, strategic planning",12,Bachelor's
+INT0048,Business Development,BUSINESS-DEVELOPMENT,"account management, adaptability, collaboration, microsoft office, microsoft office suite, sales, teamwork, time management",4,Bachelor's
+INT0049,Business Development,BUSINESS-DEVELOPMENT,"communication, crm software, proactivity, problem solving, relationship building, relationship management",7,Master's
+INT0050,Business Development,BUSINESS-DEVELOPMENT,"analytical skills, business acumen, customer focus, customer service, presentation skills, team collaboration",7,Diploma
+INT0051,Business Development,BUSINESS-DEVELOPMENT,"account management, business development, cold calling, customer service, independence, online research, presentation skills",4,Diploma
+INT0052,Business Development,BUSINESS-DEVELOPMENT,"business development, collaboration, market analysis, networking, problem solving, relationship building, relationship management, time management",10,Bachelor's
+INT0053,Business Development,BUSINESS-DEVELOPMENT,"business development, communication, customer relationship management, microsoft word, negotiation, problem solving, time management",8,Bachelor's
+INT0054,Business Development,BUSINESS-DEVELOPMENT,"customer service, goal-oriented, relationship management, strategic planning, supply chain management, teamwork, time management",1,Diploma
+INT0055,Business Development,BUSINESS-DEVELOPMENT,"business development, communication, data analysis, market analysis, microsoft office, prioritization, proposal development",3,Diploma
+INT0056,Business Development,BUSINESS-DEVELOPMENT,"analytical skills, customer relationship management, market analysis, negotiation, networking, sales",10,Bachelor's
+INT0057,Business Development,BUSINESS-DEVELOPMENT,"autonomy, customer relationship management, influence, interpersonal skills, leadership, relationship building, saas, sales, zoominfo",7,Master's
+INT0058,Business Development,BUSINESS-DEVELOPMENT,"analytical skills, b2b sales, creativity, customer relationship management, data analysis, interpersonal skills, microsoft outlook, sales strategy, strategic planning, team collaboration",6,Bachelor's
+INT0059,Business Development,BUSINESS-DEVELOPMENT,"adaptability, coaching, cold calling, collaboration, communication, crm, initiative, problem solving, sales strategy development",12,Master's
+INT0060,Business Development,BUSINESS-DEVELOPMENT,"b2b sales, collaboration, contract negotiation, lead generation, saas, teamwork",8,Master's
+INT0061,Business Development,BUSINESS-DEVELOPMENT,"6sense, account management, creativity, data analysis, hubspot, organizational skills, teamwork, time management",10,Diploma
+INT0062,Business Development,BUSINESS-DEVELOPMENT,"business development, cold calling, crm software, goal-oriented, problem solving, product knowledge, relationship management, sales strategy, self-motivation, teamwork",9,Bachelor's
+INT0063,Business Development,BUSINESS-DEVELOPMENT,"adaptability, client relationship management, communication, leadership, microsoft excel, salesforce",8,Master's
+INT0064,Business Development,BUSINESS-DEVELOPMENT,"communication, customer focus, interpersonal skills, market analysis, salesforce",9,Master's
+INT0065,Business Development,BUSINESS-DEVELOPMENT,"independence, interpersonal skills, leadership, market analysis, presentation skills, resilience, sales development, time management",12,Diploma
+INT0066,Business Development,BUSINESS-DEVELOPMENT,"client relationship management, creativity, excel, pipeline management, results-oriented, teamwork",4,Bachelor's
+INT0067,Business Development,BUSINESS-DEVELOPMENT,"business development, lead generation, market analysis, presentation skills, self-discipline, self-motivation, teamwork",11,Bachelor's
+INT0068,Business Development,BUSINESS-DEVELOPMENT,"adaptability, business development, communication, data analysis, motivation, relationship management, saas, teamwork",2,Bachelor's
+INT0069,Business Development,BUSINESS-DEVELOPMENT,"adaptability, communication, curiosity, data analysis, influence, market knowledge, relationship building, salesforce",7,Diploma
+INT0070,Business Development,BUSINESS-DEVELOPMENT,"collaboration, creativity, customer relationship management, pipeline management, problem solving, problem-solving, sales, sales techniques, work ethic",10,Bachelor's
+INT0071,Business Development,BUSINESS-DEVELOPMENT,"communication, market research, microsoft office suite, presentation skills, problem solving, relationship building, salesforce, self-motivated, teamwork",5,Master's
+INT0072,Business Development,BUSINESS-DEVELOPMENT,"assertiveness, market analysis, salesforce, strategic thinking, time management",11,Diploma
+INT0073,Business Development,BUSINESS-DEVELOPMENT,"communication, customer service, hubspot, microsoft excel, presentation skills, work ethic",5,Bachelor's
+INT0074,Business Development,BUSINESS-DEVELOPMENT,"account management, adaptability, analytical skills, customer relationship management, negotiation, positive attitude, salesforce, teamwork",10,Bachelor's
+INT0075,Business Development,BUSINESS-DEVELOPMENT,"business development, contract negotiation, crm systems, market analysis, project management",10,Diploma
+INT0076,Business Development,BUSINESS-DEVELOPMENT,"client relationship management, customer experience, networking, proposal development, teamwork",9,Master's
+INT0077,Business Development,BUSINESS-DEVELOPMENT,"collaboration, communication, organizational skills, problem solving, professionalism, sales tactics, teamwork, time management, training",6,Bachelor's
+INT0078,Business Development,BUSINESS-DEVELOPMENT,"analytical skills, crm (salesforce), interpersonal skills, organizational skills, presentation skills, professionalism, teamwork, time management",9,Master's
+INT0079,Business Development,BUSINESS-DEVELOPMENT,"attention to detail, presentation skills, problem solving, self-motivation, territory management",11,Master's
+INT0080,Business Development,BUSINESS-DEVELOPMENT,"analytical skills, client relationship management, collaboration, listening skills, negotiation, presentation skills, self-discipline, team collaboration",4,Diploma
+INT0081,Business Development,BUSINESS-DEVELOPMENT,"adaptability, communication, crm tools, presentation skills, relationship building, salesforce.com, strategic planning, time management",9,Bachelor's
+INT0082,Business Development,BUSINESS-DEVELOPMENT,"adaptability, cross-functional collaboration, data analysis, goal-oriented, motivation, presentation skills, problem solving, strategic partnerships, strategic planning, teamwork",7,Bachelor's
+INT0083,Business Development,BUSINESS-DEVELOPMENT,"adaptability, creativity, initiative, interpersonal skills, salesloft, team building, teamwork",3,Master's
+INT0084,Business Development,BUSINESS-DEVELOPMENT,"analytical skills, lead generation, organizational skills, presentation skills, resilience, self-motivation, time management",7,Diploma
+INT0085,Business Development,BUSINESS-DEVELOPMENT,"budget management, crm tools, flexibility, problem solving, time management",8,Bachelor's
+INT0086,Business Development,BUSINESS-DEVELOPMENT,"communication, negotiation, organizational skills, saas, team leadership",9,Bachelor's
+INT0087,Business Development,BUSINESS-DEVELOPMENT,"business development, communication, financial analysis, market research, relationship building, sales, teamwork, training",11,Master's
+INT0088,Business Development,BUSINESS-DEVELOPMENT,"cold calling, flexibility, leadership, mentoring, problem solving",9,Master's
+INT0089,Business Development,BUSINESS-DEVELOPMENT,"communication, crm management, market analysis, microsoft outlook, teamwork",11,Bachelor's
+INT0090,Business Development,BUSINESS-DEVELOPMENT,"analytical skills, client account management, collaboration, communication, financial analysis, lead generation, problem solving, relationship building, sales strategy, teamwork",11,Diploma
+INT0091,Business Development,BUSINESS-DEVELOPMENT,"communication, crm tools, data analysis, financial analysis, market research, relationship building",4,Bachelor's
+INT0092,Business Development,BUSINESS-DEVELOPMENT,"communication, crm, networking, presentation skills, team management, teamwork, time management",10,Bachelor's
+INT0093,Business Development,BUSINESS-DEVELOPMENT,"adaptability, crm, customer service, data analysis, problem solving, team collaboration, team leadership",7,Bachelor's
+INT0094,Business Development,BUSINESS-DEVELOPMENT,"analytical skills, business development, motivation, problem solving, problem-solving, sales, strategic planning",10,Bachelor's
+INT0095,Business Development,BUSINESS-DEVELOPMENT,"adaptability, client account management, crm, independence, leadership, market research, networking, project management, sales strategy, teamwork",11,Bachelor's
+INT0096,Business Development,BUSINESS-DEVELOPMENT,"client account management, collaboration, interpersonal skills, listening, microsoft excel",2,Bachelor's
+INT0097,Business Development,BUSINESS-DEVELOPMENT,"adaptability, customer service, organizational skills, persuasion, problem solving, sales, team collaboration",3,Bachelor's
+INT0098,Business Development,BUSINESS-DEVELOPMENT,"apollo.io, b2b sales, financial analysis, positive attitude, teamwork, time management, trust building",3,Bachelor's
+INT0099,Business Development,BUSINESS-DEVELOPMENT,"apollo.io, b2b sales, cross-functional collaboration, leadership, mentoring, problem solving",1,Master's
+INT0100,Business Development,BUSINESS-DEVELOPMENT,"customer focus, initiative, lead generation, networking, tenacity, time management",11,Bachelor's
+INT0101,Business Development,BUSINESS-DEVELOPMENT,"microsoft excel, organizational skills, positive attitude, project management, sales techniques, time management",12,Master's
+INT0102,Business Development,BUSINESS-DEVELOPMENT,"business development, communication, microsoft office suite, microsoft powerpoint, sales development",3,Diploma
+INT0103,Business Development,BUSINESS-DEVELOPMENT,"crm (salesforce), customer service, networking, outbound prospecting, relationship building, self-starter, territory management, time management",8,Bachelor's
+INT0104,Business Development,BUSINESS-DEVELOPMENT,"business development, collaboration, communication, curiosity, ms office, problem solving, salesforce, supply chain management",11,Diploma
+INT0105,Business Development,BUSINESS-DEVELOPMENT,"client presentations, communication, crm software, curiosity, entrepreneurial spirit, teamwork",1,Diploma
+INT0106,Business Development,BUSINESS-DEVELOPMENT,"communication, customer relationship management, data analysis, negotiation, sales",4,Diploma
+INT0107,Business Development,BUSINESS-DEVELOPMENT,"budget management, business development, crm software, financial analysis, negotiation, organizational skills, proposal writing, relationship building",3,Bachelor's
+INT0108,Business Development,BUSINESS-DEVELOPMENT,"attention to detail, business development, microsoft office suite, organizational skills, sales",5,Bachelor's
+INT0109,Business Development,BUSINESS-DEVELOPMENT,"communication, customer service, negotiation, organization, problem solving",2,Diploma
+INT0110,Business Development,BUSINESS-DEVELOPMENT,"adaptability, communication, crm (salesforce), decision making, entrepreneurial mindset, saas, sales, time management",8,Bachelor's
+INT0111,Business Development,BUSINESS-DEVELOPMENT,"collaboration, communication, negotiation, organizational skills, relationship building, strategic thinking, team management",11,Diploma
+INT0112,Business Development,BUSINESS-DEVELOPMENT,"cold calling, communication, lead generation, organizational skills, presentation skills, product knowledge, project management, results-oriented mindset, time management",12,Diploma
+INT0113,Business Development,BUSINESS-DEVELOPMENT,"collaboration, consultative selling, crm systems, forecasting, problem solving, territory management",7,Bachelor's
+INT0114,Business Development,BUSINESS-DEVELOPMENT,"attention to detail, communication, competitive analysis, problem solving, relationship building, strategic planning",12,Bachelor's
+INT0115,Business Development,BUSINESS-DEVELOPMENT,"communication, customer service, financial analysis, negotiation, networking, presentation skills, prioritization, problem solving, tenacity",5,Bachelor's
+INT0116,Business Development,BUSINESS-DEVELOPMENT,"adaptability, communication, independence, interpersonal skills, presentation skills, relationship building, sales forecasting",10,Bachelor's
+INT0117,Business Development,BUSINESS-DEVELOPMENT,"b2b sales, initiative, microsoft word, project management, recruitment, team leadership",10,Bachelor's
+INT0118,Business Development,BUSINESS-DEVELOPMENT,"business development, customer relationship management, email marketing, financial analysis, interpersonal skills, problem solving, relationship management, self-motivation, strategic thinking, teamwork",12,Bachelor's
+INT0119,Business Development,BUSINESS-DEVELOPMENT,"communication, interpersonal skills, lead generation, organizational skills, pipeline management, problem solving, relationship building, sales proposals, technical understanding, time management",3,Bachelor's
+INT0120,Business Development,BUSINESS-DEVELOPMENT,"account management, collaboration, communication, customer service, project management",5,Master's
+INT0121,Finance,FINANCE,"cash flow management, communication, hyperion, leadership, powerpoint, team development",1,Bachelor's
+INT0122,Finance,FINANCE,"accounting, analytical skills, collaboration, financial analysis, organizational skills, power bi",5,Bachelor's
+INT0123,Finance,FINANCE,"adaptability, analytical thinking, collaboration, data analysis, financial management, leadership",2,Bachelor's
+INT0124,Finance,FINANCE,"budgeting, excel, financial analysis, integrity, process improvement, time management",5,Master's
+INT0125,Finance,FINANCE,"financial reporting, flexibility, leadership, problem solving, rpa",2,Bachelor's
+INT0126,Finance,FINANCE,"adaptability, attention to detail, forecasting, interpersonal skills, reporting, risk management, teamwork, variance analysis",2,Bachelor's
+INT0127,Finance,FINANCE,"analytical thinking, collaboration, communication, microsoft office, problem solving, project management, risk assessment, teamwork, training and development",4,Bachelor's
+INT0128,Finance,FINANCE,"analytical skills, conflict resolution, data analysis, finance, mentorship, problem solving",10,Diploma
+INT0129,Finance,FINANCE,"attention to detail, billing, cash flow management, cpa certification, data reconciliation, presentation skills, project management",8,Master's
+INT0130,Finance,FINANCE,"accounting, communication, data analysis, decision making, financial modeling, financial reporting, process improvement, reporting",10,Bachelor's
+INT0131,Finance,FINANCE,"attention to detail, business development, communication skills, critical thinking, data analysis, detail-oriented, financial reporting, ownership",9,Master's
+INT0132,Finance,FINANCE,"accounting software, communication, critical thinking, data mining, financial reporting, performance metrics",1,Bachelor's
+INT0133,Finance,FINANCE,"analytical skills, forecasting, influencing skills, python, teamwork, time management",7,Master's
+INT0134,Finance,FINANCE,"attention to detail, cash flow management, communication, compliance, financial management, strategic planning",12,Bachelor's
+INT0135,Finance,FINANCE,"analytical skills, business acumen, collaboration, communication, finance, payroll management, problem solving, profitability analysis, reporting",5,Bachelor's
+INT0136,Finance,FINANCE,"financial planning & analysis, forecasting, internal controls, market analysis, microsoft word, ownership, project management, salesforce, strategic thinking",9,Master's
+INT0137,Finance,FINANCE,"database management, financial analysis, ifrs, negotiation, problem solving, reporting, teamwork",2,Bachelor's
+INT0138,Finance,FINANCE,"communication, data analytics, data management, intellectual curiosity, project finance, risk management, teamwork",3,Diploma
+INT0139,Finance,FINANCE,"cash flow management, critical thinking, data management, decision making, financial planning & analysis, leadership, presentation skills, problem solving",8,Bachelor's
+INT0140,Finance,FINANCE,"accounting principles, analytical thinking, critical thinking, financial reporting, project finance, reporting, results-oriented, team leadership, teamwork",8,Diploma
+INT0141,Finance,FINANCE,"analytical skills, audit coordination, blackline, data analysis, leadership, problem solving, sap",11,Bachelor's
+INT0142,Finance,FINANCE,"accounts payable, communication, financial management, financial modeling, influencing, negotiation, risk management, team leadership",3,Diploma
+INT0143,Finance,FINANCE,"communication, independence, influence, intellectual curiosity, leadership, problem-solving, variance analysis, vendor management",2,Master's
+INT0144,Finance,FINANCE,"attention to detail, collaboration, communication, excel, organizational skills, time management",12,Master's
+INT0145,Finance,FINANCE,"accounting principles, financial accounting, financial analysis, financial planning and analysis, organizational skills, relationship building",9,Bachelor's
+INT0146,Finance,FINANCE,"adaptability, analytical skills, collaboration, communication, leadership, microsoft office, portfolio management, project management, relationship building",10,Master's
+INT0147,Finance,FINANCE,"adaptability, collaboration, financial analysis, financial statement preparation, forecasting, leadership, quickbooks",9,Bachelor's
+INT0148,Finance,FINANCE,"accounting principles, communication, data analysis, detail-oriented, forecasting, fp&a, judgment",6,Master's
+INT0149,Finance,FINANCE,"adaptability, communication, finance, interpersonal skills, regulatory compliance, teamwork",3,Bachelor's
+INT0150,Finance,FINANCE,"internal controls, investor relations, project management, revenue cycle management, teamwork",11,Master's
+INT0151,Finance,FINANCE,"accounting, communication, critical thinking, excel, financial reporting, microsoft office",1,Bachelor's
+INT0152,Finance,FINANCE,"adaptability, coaching, forecasting, microsoft office suite, powerpoint, problem solving, regulatory reporting",1,Bachelor's
+INT0153,Finance,FINANCE,"attention to detail, business intelligence tools, collaboration, data analysis, investment analysis, ms office, multitasking, strategic planning, teamwork",5,Diploma
+INT0154,Finance,FINANCE,"analytical skills, budget preparation, change management, communication, prioritization",2,Bachelor's
+INT0155,Finance,FINANCE,"accounting, attention to detail, financial reporting, problem solving, time management",6,Master's
+INT0156,Finance,FINANCE,"business planning, communication, excel, financial modeling, flexibility, reconciliation, sap, teamwork",6,Master's
+INT0157,Finance,FINANCE,"analytical skills, cash flow management, collaboration, communication, creativity, data analytics, financial software, policy development, self-motivation",6,Bachelor's
+INT0158,Finance,FINANCE,"collaboration, communication, financial analysis, financial reporting, flexibility, problem solving, teamwork",7,Bachelor's
+INT0159,Finance,FINANCE,"adaptability, budgeting, communication, data analysis, project management, strategic planning, strategic thinking",5,Bachelor's
+INT0160,Finance,FINANCE,"business analysis, collaboration, data analysis, erp systems, financial planning, financial reporting, initiative, team leadership",11,Bachelor's
+INT0161,Finance,FINANCE,"accounting, confidentiality, organization, problem solving, time management",6,Bachelor's
+INT0162,Finance,FINANCE,"adaptability, budgeting, cost control, data analysis, financial reporting, healthcare finance, organizational skills, ownership, teamwork",10,Bachelor's
+INT0163,Finance,FINANCE,"communication, leadership, microsoft excel, time management, variance analysis",10,Master's
+INT0164,Finance,FINANCE,"attention to detail, collaboration, communication, financial reporting, forecasting",9,Bachelor's
+INT0165,Finance,FINANCE,"accounting, coaching, collaboration, cost accounting, data analysis, decision making, forecasting, interpersonal skills, negotiation, problem solving",6,Bachelor's
+INT0166,Finance,FINANCE,"accounting, adaptability, analytical thinking, collaboration, communication skills, data analysis, detail-oriented, project management, risk management",10,Bachelor's
+INT0167,Finance,FINANCE,"analytical skills, budgeting, excel, finance, financial analysis, problem solving, relationship management, risk management, time management",5,Diploma
+INT0168,Finance,FINANCE,"accounting, adaptability, budget preparation, budgeting, critical thinking, financial analysis, investment analysis, organizational skills, project management, relationship building",5,Master's
+INT0169,Finance,FINANCE,"analytical skills, communication, microsoft excel, presentation skills, problem solving, reporting, time management",7,Bachelor's
+INT0170,Finance,FINANCE,"adaptability, collaboration, communication, financial reporting, forecasting, mentorship",2,Bachelor's
+INT0171,Finance,FINANCE,"accounting, adaptability, process improvement, relationship building, strategic planning",6,Bachelor's
+INT0172,Finance,FINANCE,"accounts receivable, business analysis, communication, data analysis, financial reporting, power bi, problem solving, time management",4,Master's
+INT0173,Finance,FINANCE,"excel, interpersonal skills, microsoft powerpoint, risk management, tableau",9,Bachelor's
+INT0174,Finance,FINANCE,"leadership, negotiation, oracle, prioritization, risk management",1,Bachelor's
+INT0175,Finance,FINANCE,"accounting, budgeting, communication, financial reporting, organization, relationship management, strategic planning, teamwork",11,Diploma
+INT0176,Finance,FINANCE,"collaboration, data analysis, gaap, ms excel, power bi, powerpoint, proactivity, problem solving, teamwork",1,Diploma
+INT0177,Finance,FINANCE,"collaboration, excel, forecasting, professionalism, time management",3,Diploma
+INT0178,Finance,FINANCE,"attention to detail, automation, data analysis, interpersonal skills, power bi, relationship building, risk management",9,Diploma
+INT0179,Finance,FINANCE,"accounting, business planning, gaap, independence, interpersonal skills, microsoft powerpoint, teamwork, time management",10,Bachelor's
+INT0180,Finance,FINANCE,"adaptability, budgeting, communication, discretion, finance, financial modeling, forecasting, microsoft excel",7,Diploma
+INT0181,Finance,FINANCE,"adaptability, budgeting, change management, financial reporting, problem solving, tax compliance",3,Master's
+INT0182,Finance,FINANCE,"collaboration, communication, integrity, leadership, mentoring, microsoft office, sap, strategic thinking",9,Bachelor's
+INT0183,Finance,FINANCE,"accounting software, analytical thinking, budget preparation, financial planning & analysis, financial reporting, microsoft excel, reconciliation",10,Bachelor's
+INT0184,Finance,FINANCE,"accounting, adaptability, discretion, financial management, problem solving",6,Master's
+INT0185,Finance,FINANCE,"business planning, cash flow management, coaching, collaboration, financial modeling, gaap, team management, teamwork",3,Bachelor's
+INT0186,Finance,FINANCE,"communication, cross-functional collaboration, excel, finance, organizational skills, regulatory compliance, self-starter",5,Diploma
+INT0187,Finance,FINANCE,"adaptability, analytical thinking, collaboration, communication, cpa, interpersonal skills, microsoft word, project management, relationship building",6,Master's
+INT0188,Finance,FINANCE,"accounting principles, accounts receivable, cash flow management, client relationship management, collaboration, microsoft excel, problem solving, profitability analysis, project management, stakeholder engagement",6,Bachelor's
+INT0189,Finance,FINANCE,"analytical thinking, budgeting, communication, entrepreneurial mindset, general ledger, project management, time management",7,Bachelor's
+INT0190,Finance,FINANCE,"budget management, coaching, data analytics, financial forecasting, portfolio management, problem solving",1,Bachelor's
+INT0191,Finance,FINANCE,"accounting, analytical skills, attention to detail, financial reporting, sox compliance",9,Diploma
+INT0192,Finance,FINANCE,"attention to detail, collaboration, critical thinking, data analysis, financial modeling, investment analysis, project management, strategic thinking",1,Bachelor's
+INT0193,Finance,FINANCE,"accounting, analytical skills, attention to detail, leadership, microsoft powerpoint, problem solving, project management, teamwork",3,Bachelor's
+INT0194,Finance,FINANCE,"cost management, financial analysis, financial modeling, financial reporting, microsoft excel, team management",5,Bachelor's
+INT0195,Finance,FINANCE,"accounting, communication, cpa, data analysis, finance, financial analysis, leadership, time management",12,Bachelor's
+INT0196,Finance,FINANCE,"accounting software, cost analysis, organizational skills, project management, teamwork",3,Master's
+INT0197,Finance,FINANCE,"accounting principles, analytical skills, analytical thinking, leadership, organization, organizational skills, quickbooks, regulatory compliance",11,Bachelor's
+INT0198,Finance,FINANCE,"budgeting, communication, customer service, data analysis, financial reporting, organization, sap",9,Diploma
+INT0199,Finance,FINANCE,"cash flow management, financial reporting, financial systems, initiative, problem solving, time management",8,Diploma
+INT0200,Finance,FINANCE,"communication, critical thinking, financial reporting, forecasting, time management",5,Master's
+INT0201,Finance,FINANCE,"budgeting, communication, excel, regulatory compliance, teamwork",2,Bachelor's
+INT0202,Finance,FINANCE,"blackline, contract management, financial analysis, inventory management, leadership, negotiation, project management",8,Master's
+INT0203,Finance,FINANCE,"advanced excel, analytical thinking, finance, innovation, internal controls, problem solving, teamwork",3,Diploma
+INT0204,Finance,FINANCE,"adaptability, financial reporting, inventory management, leadership, powerpoint, project finance, team management, time management",5,Bachelor's
+INT0205,Finance,FINANCE,"communication, critical thinking, entrepreneurial mindset, leadership, negotiation, time management",4,Bachelor's
+INT0206,Finance,FINANCE,"adaptability, communication, financial reporting, interpersonal skills, microsoft powerpoint, sap",7,Bachelor's
+INT0207,Finance,FINANCE,"accounting, adaptability, communication, data analysis, independence, organizational skills, process improvement, strategic thinking",10,Bachelor's
+INT0208,Finance,FINANCE,"accounts payable, adaptability, conflict resolution, cost control, financial management, financial modeling, forecasting, independence, leadership",12,Diploma
+INT0209,Finance,FINANCE,"cost analysis, data analysis, discretion, leadership, microsoft powerpoint, team collaboration",6,Diploma
+INT0210,Finance,FINANCE,"accounting, accounting principles, advanced excel, client service, erp systems, influencing, leadership, powerpoint, problem solving, time management",7,Diploma
+INT0211,Finance,FINANCE,"adaptability, collaboration, communication, financial management, problem solving, project management, risk management, self-starter",1,Bachelor's
+INT0212,Finance,FINANCE,"analytical skills, communication, excel, financial planning & analysis, interpersonal skills, microsoft powerpoint, professionalism",8,Bachelor's
+INT0213,Finance,FINANCE,"accounting software, attention to detail, engagement, entrepreneurial mindset, financial analysis, sap",12,Bachelor's
+INT0214,Finance,FINANCE,"adaptability, attention to detail, cpa, customer service, erp systems, financial reporting, tableau, variance analysis",5,Bachelor's
+INT0215,Finance,FINANCE,"attention to detail, financial reporting, mentorship, oracle, professionalism, teamwork, time management",6,Bachelor's
+INT0216,Finance,FINANCE,"budgeting, coaching, collaboration, financial modeling, leadership, organizational skills",5,Master's
+INT0217,Finance,FINANCE,"adaptability, budgeting, continuous improvement, detail-oriented, problem solving",5,Bachelor's
+INT0218,Finance,FINANCE,"data analysis, financial systems, gaap, problem solving, project management, rpa, time management",11,Diploma
+INT0219,Finance,FINANCE,"business case development, communication, excel, forecasting, independence",7,Bachelor's
+INT0220,Finance,FINANCE,"adaptability, customer service, data analysis, financial analysis, risk management, vendor management",11,Diploma
+INT0221,Finance,FINANCE,"analytical thinking, cash management, coaching, curiosity, finance, financial analysis, leadership, time management",12,Diploma
+INT0222,Finance,FINANCE,"adaptability, forecasting, gaap, leadership, ms excel, problem solving, python, relationship building, teamwork",6,Bachelor's
+INT0223,Finance,FINANCE,"accounting, adaptability, communication, cpa, financial reporting, networking, positive attitude, project management",2,Bachelor's
+INT0224,Finance,FINANCE,"auditing, communication, data analysis, detail-oriented, financial analysis, presentation skills, problem solving, team management",2,Diploma
+INT0225,Finance,FINANCE,"adaptability, budgeting, cpa, financial modeling, financial planning, internal controls, python, self-starter, sql",10,Diploma
+INT0226,Finance,FINANCE,"advisory skills, attention to detail, budget management, communication, financial analysis, interpersonal skills, problem solving, sox compliance, time management, variance analysis",10,Bachelor's
+INT0227,Finance,FINANCE,"cash flow management, communication, financial forecasting, innovation, mentoring, regulatory compliance, strategic planning, strategic thinking",1,Bachelor's
+INT0228,Finance,FINANCE,"blackline, business case development, credit analysis, presentation skills, teamwork",6,Master's
+INT0229,Finance,FINANCE,"adaptability, auditing, detail-oriented, financial reporting, risk assessment",7,Master's
+INT0230,Finance,FINANCE,"cash flow management, communication, credit risk assessment, finance, relationship building, time management",5,Bachelor's
+INT0231,Finance,FINANCE,"auditing, communication, fp&a, problem solving, team management, teamwork",8,Bachelor's
+INT0232,Finance,FINANCE,"communication, financial management, forecasting, leadership, mentorship",6,Bachelor's
+INT0233,Finance,FINANCE,"accounting, attention to detail, communication, financial planning, interpersonal skills, strategic planning, training",10,Bachelor's
+INT0234,Finance,FINANCE,"accounting, collaboration, communication, data analysis, leadership, microsoft excel, presentation skills, problem solving, team management",6,Bachelor's
+INT0235,Finance,FINANCE,"collaboration, data analysis, financial analysis, financial operations, financial reporting, relationship building, time management",6,Master's
+INT0236,Finance,FINANCE,"accounting, analytical skills, business development, change management, financial reporting, interpersonal skills, leadership, process improvement, team management",8,Bachelor's
+INT0237,Finance,FINANCE,"attention to detail, financial regulations, problem solving, risk assessment, self-motivation, strategic thinking, variance analysis",7,Bachelor's
+INT0238,Finance,FINANCE,"budget preparation, budgeting, cash flow management, communication, independence, interpersonal skills, power bi",1,Diploma
+INT0239,Finance,FINANCE,"accounting, cpa, data analysis, financial reporting, gaap, independence, leadership, presentation skills, risk assessment, time management",5,Bachelor's
+INT0240,Finance,FINANCE,"analytical thinking, financial planning & analysis, financial reporting, interpersonal skills, leadership, problem solving, sap, self-starter",6,Bachelor's
+INT0241,Human Resources,HR,"attention to detail, communication, customer service, hris, leadership development, onboarding, performance management, relationship building, strategic planning",6,Master's
+INT0242,Human Resources,HR,"attention to detail, budget management, communication, confidentiality, hr management, team collaboration",11,Master's
+INT0243,Human Resources,HR,"ats, communication, customer focus, independent work, interpersonal skills, organizational development, powerpoint, problem solving, process improvement",5,Bachelor's
+INT0244,Human Resources,HR,"conflict management, leadership, motivation, organizational development, payroll management, payroll processing, technical support",1,Bachelor's
+INT0245,Human Resources,HR,"collaboration, communication, compliance, hr management, interpersonal skills, leadership development, ms office suite, policy development, relationship building",4,Master's
+INT0246,Human Resources,HR,"adaptability, administrative support, collaboration, ms office, onboarding, project management, recruitment, relationship building",12,Bachelor's
+INT0247,Human Resources,HR,"adp workforce now, change management, communication, human resources, performance management, recruiting",6,Bachelor's
+INT0248,Human Resources,HR,"adaptability, change management, communication, compliance, curiosity, leadership, workforce planning",10,Master's
+INT0249,Human Resources,HR,"active listening, conflict resolution, excel, organizational skills, recruiting",10,Bachelor's
+INT0250,Human Resources,HR,"collaboration, communication, data analysis, mentoring, problem solving, recruitment",7,Master's
+INT0251,Human Resources,HR,"compensation management, customer service, customer service orientation, interpersonal skills, organizational development",3,Bachelor's
+INT0252,Human Resources,HR,"attention to detail, communication, employee relations, leadership, performance management, project management",9,Master's
+INT0253,Human Resources,HR,"benefits administration, confidentiality, conflict resolution, documentation management, human resources management, interpersonal skills, project management, relationship building, workforce planning",5,Bachelor's
+INT0254,Human Resources,HR,"conflict management, customer service, hris, hris systems, interpersonal skills, microsoft excel",10,Bachelor's
+INT0255,Human Resources,HR,"bilingual (english/spanish), customer service, hris, influencing, problem solving",9,Master's
+INT0256,Human Resources,HR,"communication, communication skills, hr policy development, microsoft outlook, ms word, problem solving",5,Master's
+INT0257,Human Resources,HR,"coaching, communication, learning and development, ms office, payroll processing, recruiting",12,Bachelor's
+INT0258,Human Resources,HR,"communication, customer service, interpersonal skills, onboarding, organizational skills, payroll processing, performance management, problem solving",12,Bachelor's
+INT0259,Human Resources,HR,"coaching, communication, compliance, employee benefits, performance evaluations, problem solving",1,Master's
+INT0260,Human Resources,HR,"communication, conflict resolution, engagement, hris, safety training, training and development",8,Master's
+INT0261,Human Resources,HR,"employment laws, human resources management, onboarding, problem solving, project management, teamwork",7,Bachelor's
+INT0262,Human Resources,HR,"communication, compensation, detail-oriented, hr compliance, hr strategy development, mentoring, multitasking, team building, teamwork",11,Master's
+INT0263,Human Resources,HR,"adaptability, creativity, documentation management, hris management, independence, leadership, ms office suite, problem solving, technical support, workday",10,Bachelor's
+INT0264,Human Resources,HR,"cultural awareness, employee relations, hris, microsoft office suite, performance evaluation, performance management, strategic planning, training",8,Bachelor's
+INT0265,Human Resources,HR,"bachelor's degree in hr or related field, change management, communication, compensation management, employee relations, hr project management, interpersonal skills, relationship building",2,Bachelor's
+INT0266,Human Resources,HR,"attention to detail, communication, employment law, hris configuration, human resources, performance management, recruitment, relationship building, training",1,Bachelor's
+INT0267,Human Resources,HR,"communication, compliance, confidentiality, diplomacy, employee relations, talent management",7,Bachelor's
+INT0268,Human Resources,HR,"adaptability, analytical skills, communication, employment laws, human resources, leadership, multi-tasking, negotiation",11,Bachelor's
+INT0269,Human Resources,HR,"communication, employee relations, employment law, human resources management, interpersonal skills, onboarding, payroll management, relationship building, strategic thinking, team collaboration",2,Bachelor's
+INT0270,Human Resources,HR,"attention to detail, communication, employee engagement strategies, powerpoint, recruitment",5,Bachelor's
+INT0271,Human Resources,HR,"communication, compensation, data analysis, empathy, flexibility, hris systems, problem solving, process improvement, relationship building, teamwork",4,Diploma
+INT0272,Human Resources,HR,"adaptability, analytical skills, microsoft office, onboarding, organization, organizational design, policy development, relationship building, report generation",6,Bachelor's
+INT0273,Human Resources,HR,"attention to detail, benefits administration, coaching, communication, hris, policy adherence, talent development",1,Bachelor's
+INT0274,Human Resources,HR,"analytical skills, business acumen, data analysis, employee engagement, human resources management, onboarding, performance management, problem solving, talent acquisition",2,Master's
+INT0275,Human Resources,HR,"adaptability, change management, customer service, data analysis, onboarding, problem solving, recruiting, self-starter",5,Bachelor's
+INT0276,Human Resources,HR,"communication, interviewing, microsoft office, payroll administration, payroll management, performance management, policy development, positive attitude, relationship building, trust building",2,Bachelor's
+INT0277,Human Resources,HR,"conflict resolution, data analysis, interpersonal skills, interviewing, self-motivation",3,Bachelor's
+INT0278,Human Resources,HR,"communication, data entry, employee relations, negotiation, organizational design, problem solving, recruiting",9,Bachelor's
+INT0279,Human Resources,HR,"analytical thinking, creativity, data analysis, onboarding, problem solving",8,Bachelor's
+INT0280,Human Resources,HR,"coaching, communication, compliance, employee relations, interpersonal skills, microsoft excel, negotiation, strategic planning",4,Bachelor's
+INT0281,Human Resources,HR,"adaptability, coaching, compensation management, interpersonal skills, time management",12,Diploma
+INT0282,Human Resources,HR,"approachability, benefits administration, communication, compliance, confidentiality, job analysis, leadership, performance management, relationship building, training and development",9,Bachelor's
+INT0283,Human Resources,HR,"active listening, analytical skills, hr processes, problem solving, time management",2,Bachelor's
+INT0284,Human Resources,HR,"attention to detail, conflict management, independent work, microsoft excel, organizational design, policy development, problem solving, sap",12,Bachelor's
+INT0285,Human Resources,HR,"employee relations, employment law compliance, hris, human resources management, microsoft office, microsoft office suite, multitasking, organizational skills, policy development",11,Bachelor's
+INT0286,Human Resources,HR,"communication, employment law, microsoft office, ms office suite, performance management, strategic thinking, verbal communication, workforce planning",2,Bachelor's
+INT0287,Human Resources,HR,"attention to detail, data analysis, payroll systems, self-motivation, succession planning",10,Bachelor's
+INT0288,Human Resources,HR,"adaptability, data analysis, onboarding, performance management, teamwork",4,Bachelor's
+INT0289,Human Resources,HR,"decision making, leadership, multi-tasking, problem solving, self-motivation",4,Bachelor's
+INT0290,Human Resources,HR,"empathy, interpersonal skills, shrm-cp certification, teamwork, time management",6,Diploma
+INT0291,Human Resources,HR,"communication, judgment, problem solving, project management, recruiting, time management",1,Diploma
+INT0292,Human Resources,HR,"attention to detail, communication, data analysis, leadership, microsoft office suite, training and development",5,Bachelor's
+INT0293,Human Resources,HR,"adaptability, budget management, project management, talent acquisition, time management, training and development",2,Bachelor's
+INT0294,Human Resources,HR,"adaptability, change management, confidentiality, organizational design, performance management",10,Bachelor's
+INT0295,Human Resources,HR,"background checks, communication, communication skills, compensation and benefits, employee relations, employment law knowledge, offboarding, project management, recruiting",2,Bachelor's
+INT0296,Human Resources,HR,"compliance with labor laws, cultural sensitivity, emotional intelligence, employment law, performance management",1,Master's
+INT0297,Human Resources,HR,"administrative support, collaboration, confidentiality, excel, interpersonal skills, policy adherence, problem solving, talent acquisition",11,Bachelor's
+INT0298,Human Resources,HR,"adaptability, administrative support, communication, employee engagement, initiative, recruitment, talent management",4,Diploma
+INT0299,Human Resources,HR,"adaptability, benefits administration, conflict resolution, customer service, employee relations, global hr experience, leadership, organizational design, organizational skills, talent management",3,Bachelor's
+INT0300,Human Resources,HR,"confidentiality, empathy, leadership, performance management, strategic planning",9,Master's
+INT0301,Human Resources,HR,"analytical thinking, communication, hris, integrity, ms word, problem solving, relationship building",4,Bachelor's
+INT0302,Human Resources,HR,"accountability, active listening, agility, attention to detail, collaboration, hr administration, labor laws, microsoft office suite, teamwork",1,Diploma
+INT0303,Human Resources,HR,"benefits administration, collaboration, consultation, documentation, employment laws, problem solving, self-motivation, workforce planning",1,Bachelor's
+INT0304,Human Resources,HR,"accountability, employee relations, leadership, positive attitude, talent management, teamwork",12,Bachelor's
+INT0305,Human Resources,HR,"bilingual (english and spanish), employee relations, leadership, organizational effectiveness, record keeping, teamwork",9,Bachelor's
+INT0306,Human Resources,HR,"adaptability, attention to detail, communication, cultural sensitivity, problem solving, results-oriented",12,Bachelor's
+INT0307,Human Resources,HR,"collaboration, cultural awareness, discretion, hr analytics, hris management, mentoring, relationship building, results-oriented",11,Bachelor's
+INT0308,Human Resources,HR,"adaptability, benefits administration, collaboration, employee relations, ms office suite, multi-tasking, problem solving, recruiting, self-motivation",1,Diploma
+INT0309,Human Resources,HR,"benefits administration, confidentiality, hr reporting and analytics, payroll systems, prioritization, teamwork",6,Bachelor's
+INT0310,Human Resources,HR,"advanced excel, employee benefits, employee relations, hr policies and procedures, integrity, leadership, onboarding, organizational skills, payroll administration",4,Bachelor's
+INT0311,Human Resources,HR,"adaptability, analytical skills, background checks, communication, creativity, data entry, employee relations, multi-tasking, trustworthiness",7,Diploma
+INT0312,Human Resources,HR,"business acumen, confidentiality, microsoft powerpoint, safety training, teamwork",2,Master's
+INT0313,Human Resources,HR,"employee benefits administration, employment law compliance, interpersonal skills, leadership, problem solving",3,Master's
+INT0314,Human Resources,HR,"employee benefits administration, flexibility, hr information systems, organizational skills, performance evaluations, recruitment, relationship building, strategic planning, team leadership, training development",3,Master's
+INT0315,Human Resources,HR,"change management, collaboration, communication, employment law, technical support",5,Diploma
+INT0316,Human Resources,HR,"attention to detail, benefits administration, interpersonal skills, microsoft office, microsoft office suite, performance management, problem solving, recruitment, reporting",8,Diploma
+INT0317,Human Resources,HR,"communication, onboarding, payroll processing, time management, vendor management",8,Master's
+INT0318,Human Resources,HR,"adaptability, attention to detail, collaboration, initiative, performance management, problem solving, strategic planning",8,Master's
+INT0319,Human Resources,HR,"communication, confidentiality, human resources, organizational skills, payroll administration, performance management, problem solving",7,Diploma
+INT0320,Human Resources,HR,"adaptability, benefits administration, confidentiality, curiosity, data analysis, microsoft office, performance management, prioritization, team collaboration",2,Bachelor's
+INT0321,Human Resources,HR,"communication, compensation administration, compliance, conflict resolution, data analysis, decision making, offboarding, professionalism",3,Master's
+INT0322,Human Resources,HR,"communication, data management, documentation, recruiting, recruitment, sap",10,Bachelor's
+INT0323,Human Resources,HR,"coaching, communication, employment law, hr management, hris systems, leadership, recruiting",8,Diploma
+INT0324,Human Resources,HR,"cultural awareness, data analysis, human resources management, professionalism, recruitment",10,Bachelor's
+INT0325,Human Resources,HR,"communication, cultural awareness, empathy, employment laws, engagement, multitasking, teamwork, work ethic",7,Bachelor's
+INT0326,Human Resources,HR,"communication, flexibility, leadership, mentoring, organization, organizational development, problem solving, talent acquisition",1,Bachelor's
+INT0327,Human Resources,HR,"attention to detail, coaching, microsoft office suite, organizational skills, problem solving, report generation, sap, stakeholder management, time management",3,Bachelor's
+INT0328,Human Resources,HR,"analytical thinking, collaboration, human resources management, initiative, problem solving, project management, workday",7,Bachelor's
+INT0329,Human Resources,HR,"adaptability, attention to detail, compensation and benefits, conflict resolution, data analysis, discretion, empathy, organizational development, performance management",1,Diploma
+INT0330,Human Resources,HR,"bilingual (english and spanish), collaboration, conflict management, customer focus, microsoft office suite, training and development",5,Bachelor's
+INT0331,Human Resources,HR,"attention to detail, communication, compensation analysis, data analysis, employee relations, onboarding, teamwork",8,Bachelor's
+INT0332,Human Resources,HR,"background checks, coaching, communication, communication skills, employee relations, hris systems, microsoft office suite, organizational skills, performance management",4,Bachelor's
+INT0333,Human Resources,HR,"communication, compliance, confidentiality, data analysis, hr policies, hr reporting and analytics, interpersonal skills, payroll processing, relationship building, time management",4,Bachelor's
+INT0334,Human Resources,HR,"conflict resolution, flexibility, negotiation skills, oracle, problem solving, strategic planning",5,Master's
+INT0335,Human Resources,HR,"adaptability, communication, compliance, data analysis, time management, workday",9,Bachelor's
+INT0336,Human Resources,HR,"employee engagement programs, leadership, organizational skills, problem solving, relationship building, stakeholder management, talent management, teamwork",4,Bachelor's
+INT0337,Human Resources,HR,"adaptability, coaching, data analysis, microsoft office, performance management, recruiting",11,Bachelor's
+INT0338,Human Resources,HR,"adaptability, background checks, critical thinking, independent work, recruitment, relationship building",10,Bachelor's
+INT0339,Human Resources,HR,"attention to detail, conflict resolution, global hr experience, integrity, motivation, onboarding, organizational skills, problem solving, team collaboration, team leadership",11,Bachelor's
+INT0340,Human Resources,HR,"background checks, collaboration, communication, compliance, hris, organizational skills, recruiting",4,Bachelor's
+INT0341,Human Resources,HR,"attention to detail, confidentiality, hr practices, organization, recruitment, teamwork, time management",8,Bachelor's
+INT0342,Human Resources,HR,"analytical skills, engagement, human resources policies, organization, teamwork",2,Diploma
+INT0343,Human Resources,HR,"adaptability, benefits administration, change management, coaching, communication, conflict management, human resources management, performance management, presentation skills, problem solving",12,Bachelor's
+INT0344,Human Resources,HR,"collaboration, empathy, employee relations, hr compliance, onboarding",4,Bachelor's
+INT0345,Human Resources,HR,"communication, compliance with labor laws, cultural awareness, empathy, interpersonal skills, teamwork",7,Master's
+INT0346,Human Resources,HR,"adaptability, attention to detail, change management, customer focus, employee relations, leadership, talent acquisition, work ethic",1,Bachelor's
+INT0347,Human Resources,HR,"communication, compensation and benefits, confidentiality, data analysis, employee relations, leadership, multi-tasking, multitasking, performance management, problem solving",8,Bachelor's
+INT0348,Human Resources,HR,"communication, compliance with labor laws, data analysis, hris software, interpersonal skills, presentation skills, team collaboration, verbal communication, workforce planning",1,Master's
+INT0349,Human Resources,HR,"communication, confidentiality, data analysis, employee relations, leadership development, payroll processing",7,Bachelor's
+INT0350,Human Resources,HR,"adaptability, employee relations, global hr experience, human resources management, performance management, relationship building, reporting, risk management, strategic thinking, training and development",5,Diploma
+INT0351,Human Resources,HR,"change management, communication, data analysis, employee relations, professionalism, recruitment, self-motivation, team collaboration",7,Bachelor's
+INT0352,Human Resources,HR,"creativity, cultural awareness, data analysis, excel, problem solving",4,Diploma
+INT0353,Human Resources,HR,"attention to detail, customer focus, hr strategies, human resources management, independence, interpersonal skills, mediation",6,Master's
+INT0354,Human Resources,HR,"compliance, employee relations, interpersonal skills, microsoft office suite, payroll administration, presentation skills",9,Bachelor's
+INT0355,Human Resources,HR,"communication, documentation, employment law, legal compliance, training and development",5,Bachelor's
+INT0356,Human Resources,HR,"attention to detail, communication, compliance, judgment, performance management, problem-solving, recruiting, recruitment",1,Bachelor's
+INT0357,Human Resources,HR,"attention to detail, compliance knowledge, employment laws, interpersonal skills, payroll management, professionalism",6,Bachelor's
+INT0358,Human Resources,HR,"adaptability, collaboration, decision making, employee benefits, ms office suite, problem solving",2,Bachelor's
+INT0359,Human Resources,HR,"cultural sensitivity, diplomacy, human resources management, interpersonal skills, performance management, teamwork",11,Diploma
+INT0360,Human Resources,HR,"adaptability, attention to detail, collaboration, communication, employee relations, mediation, microsoft office suite, stakeholder management",2,Master's
+INT0361,Information Technology,INFORMATION-TECHNOLOGY,"analytical skills, configuration management, continuous learning, cybersecurity, interpersonal skills, leadership, project management, vendor management",11,Bachelor's
+INT0362,Information Technology,INFORMATION-TECHNOLOGY,"incident management, influencing skills, interpersonal skills, it management, network troubleshooting, networking, strategic planning",3,Master's
+INT0363,Information Technology,INFORMATION-TECHNOLOGY,"active directory, hardware support, linux, organization, organizational skills, power bi, powershell, problem solving, project management",4,Bachelor's
+INT0364,Information Technology,INFORMATION-TECHNOLOGY,"customer service, leadership, ms excel, problem solving, software installation, supply chain management, time management",8,Diploma
+INT0365,Information Technology,INFORMATION-TECHNOLOGY,"communication, confluence, ms office suite, organizational skills, technical support",7,Bachelor's
+INT0366,Information Technology,INFORMATION-TECHNOLOGY,"collaboration, data governance, decision making, integrity, presentation skills, risk management, vmware",6,Master's
+INT0367,Information Technology,INFORMATION-TECHNOLOGY,"agile, computer hardware, data governance, network+, project coordination, teamwork, vpn",12,Bachelor's
+INT0368,Information Technology,INFORMATION-TECHNOLOGY,"attention to detail, communication, data management, problem management, problem solving, teamwork, vmware, written communication",1,Bachelor's
+INT0369,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, customer service, ms teams, organizational skills, problem solving, self-starter",7,Bachelor's
+INT0370,Information Technology,INFORMATION-TECHNOLOGY,"agile, communication, erp systems, network administration, programming, software installation",2,Diploma
+INT0371,Information Technology,INFORMATION-TECHNOLOGY,"active directory, collaboration, interpersonal skills, operating systems, project management, software installation, team management, vmware",8,Diploma
+INT0372,Information Technology,INFORMATION-TECHNOLOGY,"analytical skills, communication, dhcp, erp systems, group policy, ms project, network management, problem solving, teamwork",7,Master's
+INT0373,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, cobit, communication, cultural sensitivity, customer service, ms excel, reporting, technical support, vmware",5,Diploma
+INT0374,Information Technology,INFORMATION-TECHNOLOGY,"collaboration, communication, devops, problem solving, remote support, server administration, team management, teamwork",9,Bachelor's
+INT0375,Information Technology,INFORMATION-TECHNOLOGY,"analytical thinking, collaboration, communication, internal controls, market analysis, motivation, network administration, teamwork, troubleshooting",5,Diploma
+INT0376,Information Technology,INFORMATION-TECHNOLOGY,"cisa certification, communication, interviewing skills, performance monitoring, problem solving, project management, project management tools, team collaboration",11,Bachelor's
+INT0377,Information Technology,INFORMATION-TECHNOLOGY,"communication, leadership, problem solving, team leadership, technical support, troubleshooting, windows administration",11,Diploma
+INT0378,Information Technology,INFORMATION-TECHNOLOGY,"analytical thinking, budget management, change management, collaboration, information technology, jira, office 365, presentation skills, problem solving",11,Master's
+INT0379,Information Technology,INFORMATION-TECHNOLOGY,"cissp, continuous learning, cybersecurity, it project management, leadership, problem solving, technical support",11,Bachelor's
+INT0380,Information Technology,INFORMATION-TECHNOLOGY,"communication, configuration management, documentation, facilitation, microsoft azure, operating systems, problem solving, sql, technical support",12,Bachelor's
+INT0381,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, azure, budget management, communication, confidentiality, independence, project management, team collaboration",3,Bachelor's
+INT0382,Information Technology,INFORMATION-TECHNOLOGY,"attention to detail, collaboration, critical thinking, microsoft operating systems, networking concepts, salesforce, stakeholder management",12,Bachelor's
+INT0383,Information Technology,INFORMATION-TECHNOLOGY,"customer service, incident management, microsoft office suite, process flow documentation, team collaboration, team leadership, vendor management",4,Bachelor's
+INT0384,Information Technology,INFORMATION-TECHNOLOGY,"attention to detail, influencing skills, networking, professionalism, relationship building, teamwork",11,Diploma
+INT0385,Information Technology,INFORMATION-TECHNOLOGY,"communication, flexibility, java, self-motivation, time management",1,Bachelor's
+INT0386,Information Technology,INFORMATION-TECHNOLOGY,"active directory management, adaptability, change management, communication, configuration management, cyber security, itil, presentation skills, project management, windows server",8,Diploma
+INT0387,Information Technology,INFORMATION-TECHNOLOGY,"budget management, business analysis, data analysis, information assurance, it security policies, problem solving, windows server",11,Bachelor's
+INT0388,Information Technology,INFORMATION-TECHNOLOGY,"communication skills, data mining, intune, problem solving, windows 10",11,Master's
+INT0389,Information Technology,INFORMATION-TECHNOLOGY,"communication, cybersecurity, negotiation, software installation, teamwork",3,Bachelor's
+INT0390,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, collaboration, information technology, interpersonal skills, time management, windows 10",7,Bachelor's
+INT0391,Information Technology,INFORMATION-TECHNOLOGY,"active directory, application development, attention to detail, budget management, communication, cybersecurity, independence, leadership, project management, troubleshooting",10,Bachelor's
+INT0392,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, change management, programming, project planning, self-starter",9,Bachelor's
+INT0393,Information Technology,INFORMATION-TECHNOLOGY,"communication, desktop support, information technology, stakeholder engagement, user support",1,Bachelor's
+INT0394,Information Technology,INFORMATION-TECHNOLOGY,"budget management, collaboration, communication, customer service, digital transformation, microsoft exchange, problem solving",4,Bachelor's
+INT0395,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, communication, multi-tasking, networking, problem solving, resume building, vulnerability management",1,Diploma
+INT0396,Information Technology,INFORMATION-TECHNOLOGY,"attention to detail, collaboration, communication, initiative, it management, leadership, organizational skills, teamwork",2,Bachelor's
+INT0397,Information Technology,INFORMATION-TECHNOLOGY,"networking, process improvement, sharepoint, strategic thinking, teamwork, technical support",10,Diploma
+INT0398,Information Technology,INFORMATION-TECHNOLOGY,"engagement, help desk support, market research, microsoft office suite, problem solving, self-motivation, teamwork",6,Bachelor's
+INT0399,Information Technology,INFORMATION-TECHNOLOGY,"customer engagement, organizational skills, sap, stakeholder management, teamwork, technical support",3,Bachelor's
+INT0400,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, cloud services, communication, data analysis, group policy, planning, project management, servicenow",11,Diploma
+INT0401,Information Technology,INFORMATION-TECHNOLOGY,"continuous improvement, excel, problem solving, risk management, self-motivated",9,Bachelor's
+INT0402,Information Technology,INFORMATION-TECHNOLOGY,"attention to detail, data extraction, inventory management, office 365, organization, problem solving, stakeholder management, team management, troubleshooting",6,Master's
+INT0403,Information Technology,INFORMATION-TECHNOLOGY,"collaboration, communication, data management, mentoring, network configuration, project management, team collaboration, time management, vmware",11,Diploma
+INT0404,Information Technology,INFORMATION-TECHNOLOGY,"leadership, organizational skills, problem solving, strategic planning, team management, troubleshooting",4,Bachelor's
+INT0405,Information Technology,INFORMATION-TECHNOLOGY,"information technology, it service management (itsm), motivation, python, resource allocation",1,Bachelor's
+INT0406,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, analytical skills, communication skills, problem management, problem solving, software troubleshooting, stakeholder engagement, teamwork, troubleshooting, written communication",9,Bachelor's
+INT0407,Information Technology,INFORMATION-TECHNOLOGY,"continuous learning, decision-making, documentation, itil, organizational skills, strategic planning, troubleshooting",1,Diploma
+INT0408,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, computer hardware, interpersonal skills, it infrastructure, negotiation, team collaboration, time management, training, windows server",7,Bachelor's
+INT0409,Information Technology,INFORMATION-TECHNOLOGY,"application development, innovation, problem solving, project management, relationship building, strategic planning",3,Bachelor's
+INT0410,Information Technology,INFORMATION-TECHNOLOGY,"communication, customer service, itil, o365, office 365, power bi, prioritization, problem solving",11,Diploma
+INT0411,Information Technology,INFORMATION-TECHNOLOGY,"data warehousing, it management, it strategy development, problem solving, self-starter",8,Diploma
+INT0412,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, analytical skills, it infrastructure, microsoft office, presentation skills, problem solving, written communication",8,Bachelor's
+INT0413,Information Technology,INFORMATION-TECHNOLOGY,"active directory, change management, communication, it project management, negotiation, network security, operating systems, problem solving, time management",3,Bachelor's
+INT0414,Information Technology,INFORMATION-TECHNOLOGY,"analytical skills, communication, data analysis, financial analysis, linux, log analysis, network+, technical documentation",1,Diploma
+INT0415,Information Technology,INFORMATION-TECHNOLOGY,"application support, budget management, documentation, influencing, jira, operating systems, problem management, salesforce, time management, vendor management",2,Diploma
+INT0416,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, communication, customer service, problem solving, relationship building, servicenow, technical documentation, time management",10,Bachelor's
+INT0417,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, analytical skills, communication, confluence, negotiation, network troubleshooting, project management, teamwork, troubleshooting",7,Diploma
+INT0418,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, cloud computing, collaboration, customer service, documentation, mentoring, project management software, strategic planning, troubleshooting",5,Bachelor's
+INT0419,Information Technology,INFORMATION-TECHNOLOGY,"analytical skills, conflict resolution, helpdesk support, internal controls, problem solving, regulatory compliance, team management, teamwork, technical support",9,Bachelor's
+INT0420,Information Technology,INFORMATION-TECHNOLOGY,"decision making, influencing, information technology, intune, leadership, microsoft office suite, software support, team building",8,Bachelor's
+INT0421,Information Technology,INFORMATION-TECHNOLOGY,"change management, communication, interpersonal skills, leadership, patch management, problem management, problem solving, risk management, software support",1,Diploma
+INT0422,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, analytical skills, interpersonal skills, problem solving, self-motivation, team building",10,Bachelor's
+INT0423,Information Technology,INFORMATION-TECHNOLOGY,"enterprise architecture, itil, network infrastructure, problem solving, project management, risk management, team collaboration, time management",11,Bachelor's
+INT0424,Information Technology,INFORMATION-TECHNOLOGY,"collaboration, customer service, it management, java, problem solving, project management, software troubleshooting",6,Diploma
+INT0425,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, collaboration, disaster recovery planning, group policy, problem solving, vmware",9,Master's
+INT0426,Information Technology,INFORMATION-TECHNOLOGY,"active directory, collaboration, communication, teamwork, windows server",9,Bachelor's
+INT0427,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, automation tools, documentation, interpersonal skills, mentoring, stakeholder management, strategic planning, teamwork, time management",8,Bachelor's
+INT0428,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, change management, hardware troubleshooting, microsoft office suite, problem solving",7,Bachelor's
+INT0429,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, communication, innovation, itil, pmp certification, project management, self-starter",9,Bachelor's
+INT0430,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, it strategy development, javascript, mentoring, relationship building, troubleshooting",8,Bachelor's
+INT0431,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, communication, networking, problem solving, rfp management, server administration, team collaboration, team management",10,Master's
+INT0432,Information Technology,INFORMATION-TECHNOLOGY,"budget management, coaching, networking, strategic planning, team leadership",10,Master's
+INT0433,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, collaboration, cultural sensitivity, leadership, organizational skills, patch management, problem solving",8,Master's
+INT0434,Information Technology,INFORMATION-TECHNOLOGY,"communication, flexibility, it project management, it service management (itsm), project management, risk management, software installation, stakeholder management, teamwork",7,Bachelor's
+INT0435,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, budgeting, communication, market research, problem solving, teamwork, troubleshooting",4,Master's
+INT0436,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, collaboration, communication, conflict resolution, documentation, hardware troubleshooting, problem solving, time management",12,Bachelor's
+INT0437,Information Technology,INFORMATION-TECHNOLOGY,"collaboration, desktop support, microsoft azure, organization, problem solving, software development, team building",3,Bachelor's
+INT0438,Information Technology,INFORMATION-TECHNOLOGY,"application development, attention to detail, collaboration, independence, itil, microsoft office suite, scripting, windows",1,Diploma
+INT0439,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, communication, cybersecurity, mobile device support, problem solving",9,Bachelor's
+INT0440,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, collaboration, communication, continuous learning, jira, problem resolution, problem solving, project management, vmware",5,Bachelor's
+INT0441,Information Technology,INFORMATION-TECHNOLOGY,"communication, inventory management, office 365, software support, stakeholder management, teamwork, technical support",3,Bachelor's
+INT0442,Information Technology,INFORMATION-TECHNOLOGY,"attention to detail, collaboration, engagement, independence, leadership, microsoft 365, problem solving, teamwork, time management",10,Bachelor's
+INT0443,Information Technology,INFORMATION-TECHNOLOGY,"communication, customer service, erp systems, internal controls, problem management, problem solving, reporting tools, technical certifications, technical infrastructure management, technical support",11,Bachelor's
+INT0444,Information Technology,INFORMATION-TECHNOLOGY,"communication, data warehousing, hardware troubleshooting, leadership, microsoft 365 management, problem solving",1,Diploma
+INT0445,Information Technology,INFORMATION-TECHNOLOGY,"active directory management, communication, enterprise architecture, networking, vendor management",11,Bachelor's
+INT0446,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, communication, creativity, critical thinking, influencing skills, project management, teamwork, time management",8,Bachelor's
+INT0447,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, analytical thinking, comptia a+, positive attitude, problem solving, team leadership, technical support, verbal communication",7,Diploma
+INT0448,Information Technology,INFORMATION-TECHNOLOGY,"communication, customer service, data analysis, negotiation, network management, problem solving, self-motivation, sharepoint, strategic planning",1,Bachelor's
+INT0449,Information Technology,INFORMATION-TECHNOLOGY,"independence, it strategy development, ms project, organization, project management, relationship building, server administration, teamwork",5,Master's
+INT0450,Information Technology,INFORMATION-TECHNOLOGY,"collaboration, customer service, documentation, information technology, microsoft azure, problem solving, project management, time management",4,Master's
+INT0451,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, analytical thinking, communication, critical thinking, desktop support, hardware support, itil",5,Diploma
+INT0452,Information Technology,INFORMATION-TECHNOLOGY,"cobit, communication, hardware installation, leadership, organizational skills, problem solving, technical support",1,Bachelor's
+INT0453,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, agile, communication, data analysis, leadership, problem solving",4,Bachelor's
+INT0454,Information Technology,INFORMATION-TECHNOLOGY,"comptia security+, desktop support, negotiation, organizational skills, teamwork",12,Master's
+INT0455,Information Technology,INFORMATION-TECHNOLOGY,"leadership, professionalism, stakeholder management, teamwork, vpn",9,Bachelor's
+INT0456,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, change management, database administration, devops, problem solving, project management, verbal communication",4,Master's
+INT0457,Information Technology,INFORMATION-TECHNOLOGY,"azure, communication, information technology, problem solving, scripting, team collaboration, team management, technical skills, training development",12,Bachelor's
+INT0458,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, communication, decision making, microsoft 365, problem management, problem solving, reporting tools, system administration",1,Bachelor's
+INT0459,Information Technology,INFORMATION-TECHNOLOGY,"customer service, mentorship, positive attitude, presentation skills, strategic thinking, time management",12,Master's
+INT0460,Information Technology,INFORMATION-TECHNOLOGY,"active directory management, adaptability, data management, intune, leadership, negotiation, positive attitude, teamwork, windows",11,Bachelor's
+INT0461,Information Technology,INFORMATION-TECHNOLOGY,"communication, hardware troubleshooting, microsoft office suite, network configuration, resource allocation, time management",8,Bachelor's
+INT0462,Information Technology,INFORMATION-TECHNOLOGY,"analytical thinking, attention to detail, communication, interpersonal skills, problem solving, process improvement, strategic planning, tcp/ip, troubleshooting",9,Bachelor's
+INT0463,Information Technology,INFORMATION-TECHNOLOGY,"comptia a+, continuous learning, data analysis, it project management, ms office, team collaboration, teamwork",5,Master's
+INT0464,Information Technology,INFORMATION-TECHNOLOGY,"active directory, hardware installation, networking, stakeholder management, team leadership, team management, training",10,Bachelor's
+INT0465,Information Technology,INFORMATION-TECHNOLOGY,"it support, leadership, mentoring, microsoft windows, problem solving, teamwork",3,Diploma
+INT0466,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, analytical skills, budget management, communication, customer service, problem solving, project planning, sql server, teamwork",8,Bachelor's
+INT0467,Information Technology,INFORMATION-TECHNOLOGY,"analytical skills, collaboration, communication, communication skills, hardware troubleshooting, vendor management",1,Bachelor's
+INT0468,Information Technology,INFORMATION-TECHNOLOGY,"agile, analytical skills, disaster recovery planning, innovation, problem solving, project management, server administration",11,Master's
+INT0469,Information Technology,INFORMATION-TECHNOLOGY,"cybersecurity, integrity, presentation skills, self-starter, troubleshooting",10,Bachelor's
+INT0470,Information Technology,INFORMATION-TECHNOLOGY,"communication, communication skills, incident management, problem solving, team management, vendor management",9,Bachelor's
+INT0471,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, communication, critical thinking, it audit, network administration, problem solving, vendor management",6,Diploma
+INT0472,Information Technology,INFORMATION-TECHNOLOGY,"comptia security+, customer service, problem solving, software installation, team collaboration, teamwork, technical skills, technical support, training",6,Bachelor's
+INT0473,Information Technology,INFORMATION-TECHNOLOGY,"coaching, collaboration, documentation, interpersonal skills, it management, problem solving, risk assessment, server management, teamwork",12,Diploma
+INT0474,Information Technology,INFORMATION-TECHNOLOGY,"adaptability, design thinking, project management, risk management, technical support, troubleshooting",5,Bachelor's
+INT0475,Information Technology,INFORMATION-TECHNOLOGY,"attention to detail, problem solving, project management, self-starter, software development",9,Bachelor's
+INT0476,Information Technology,INFORMATION-TECHNOLOGY,"collaboration, communication, negotiation, programming, risk management, strategic thinking, time management, troubleshooting",2,Bachelor's
+INT0477,Information Technology,INFORMATION-TECHNOLOGY,"collaboration, configuration management, customer service, data governance, dns, presentation skills, problem solving, python, team management",10,Bachelor's
+INT0478,Information Technology,INFORMATION-TECHNOLOGY,"active directory management, attention to detail, collaboration, communication, computer hardware, continuous learning, flexibility, leadership, network administration, risk mitigation",12,Bachelor's
+INT0479,Information Technology,INFORMATION-TECHNOLOGY,"analytical thinking, collaboration, disaster recovery planning, independence, leadership, microsoft 365, microsoft teams, teamwork, vendor management",1,Bachelor's
+INT0480,Information Technology,INFORMATION-TECHNOLOGY,"active directory, attention to detail, communication, customer service, prioritization, problem solving, risk mitigation, technical support",12,Diploma
+INT0481,Sales,SALES,"adaptability, customer service, lead generation, marketing, visual merchandising",8,Bachelor's
+INT0482,Sales,SALES,"adaptability, business planning, customer service, merchandising, microsoft office 365, organizational skills, problem solving, relationship building, time management",2,Diploma
+INT0483,Sales,SALES,"computer skills, customer service, customer service orientation, flexibility, market analysis",5,Bachelor's
+INT0484,Sales,SALES,"communication, css, presentation skills, product knowledge, results-oriented mindset, teamwork",4,Bachelor's
+INT0485,Sales,SALES,"collaboration, communication, lifting (up to 50 pounds), organization, persuasion, safety compliance, team collaboration, team management, teamwork",5,Bachelor's
+INT0486,Sales,SALES,"collaboration, customer relationship management, leadership, presentation skills, problem solving, sales, visual merchandising",12,Bachelor's
+INT0487,Sales,SALES,"adaptability, basic math skills, communication, flexibility, interpersonal skills, judgment, organization, problem solving, relationship building, self-starter",2,Bachelor's
+INT0488,Sales,SALES,"adaptability, consultative sales, customer service, market research, sales techniques, self-motivation, teamwork, training",9,Master's
+INT0489,Sales,SALES,"attention to detail, communication, interpersonal skills, market analysis, negotiation, problem solving, product knowledge, relationship building, safety compliance, self-motivated",5,Diploma
+INT0490,Sales,SALES,"adaptability, communication, creativity, documentation, leadership, sales, self-motivation",5,Diploma
+INT0491,Sales,SALES,"accountability, communication, integrity, multi-tasking, self-discipline",5,Diploma
+INT0492,Sales,SALES,"coaching, negotiation, presentation, respectfulness, sales experience, teamwork",11,Diploma
+INT0493,Sales,SALES,"consultative selling, customer satisfaction, data analysis, inventory management, problem solving, teamwork, time management",3,Bachelor's
+INT0494,Sales,SALES,"coaching, creativity, customer satisfaction, healthcare knowledge, microsoft office, microsoft office 365, results oriented",3,Diploma
+INT0495,Sales,SALES,"analytical skills, communication, inventory management, microsoft office suite, problem solving, teamwork",7,Bachelor's
+INT0496,Sales,SALES,"adaptability, leadership, problem solving, sales presentations, team collaboration, teamwork",10,Bachelor's
+INT0497,Sales,SALES,"adaptability, attention to detail, creativity, organizational skills, sales, self-motivation, time management",8,Diploma
+INT0498,Sales,SALES,"basic computer skills, business acumen, business development, customer service, persuasiveness, problem solving, sales, time management",12,Bachelor's
+INT0499,Sales,SALES,"budget management, collaboration, communication, css, data analysis, interpersonal skills, product knowledge, safety compliance, sales, self-motivated",1,Master's
+INT0500,Sales,SALES,"crm, goal-oriented, leadership, outbound calling, pos systems, project management, relationship building, sales experience, territory management",2,Diploma
+INT0501,Sales,SALES,"communication, customer service, goal-oriented, interpersonal skills, inventory management, powerpoint, product knowledge",4,Bachelor's
+INT0502,Sales,SALES,"adaptability, analytical thinking, cold calling, microsoft office, problem solving, saas knowledge",3,Diploma
+INT0503,Sales,SALES,"cash handling, crm software, judgment, listening, prioritization, product knowledge, teamwork",6,Master's
+INT0504,Sales,SALES,"business development, communication, consultative sales, data analysis, enthusiasm, negotiation, product knowledge",12,Bachelor's
+INT0505,Sales,SALES,"lifting (up to 50 pounds), organization, positive attitude, product knowledge, relationship building, sales experience, teamwork, willingness to learn",1,Master's
+INT0506,Sales,SALES,"market research, organizational skills, problem solving, team management, teamwork, training",7,Bachelor's
+INT0507,Sales,SALES,"adaptability, independence, integrity, problem solving, product knowledge, teamwork",5,Diploma
+INT0508,Sales,SALES,"communication, consultative sales, inventory management, reporting, retail experience",4,Bachelor's
+INT0509,Sales,SALES,"adaptability, communication, crm systems, motivation, product knowledge, professional demeanor, team collaboration, training",1,Bachelor's
+INT0510,Sales,SALES,"business development, communication, reliability, retail experience, sales techniques, teamwork",6,Bachelor's
+INT0511,Sales,SALES,"communication, customer service, flexibility, pos systems, problem solving",10,Diploma
+INT0512,Sales,SALES,"adaptability, communication, customer engagement, negotiation, organization, positive attitude, problem solving, product knowledge, strategic thinking",9,Master's
+INT0513,Sales,SALES,"adaptability, judgment, professionalism, relationship building, teamwork",1,Diploma
+INT0514,Sales,SALES,"crm software, decision making, negotiation, organizational skills, relationship building",12,Diploma
+INT0515,Sales,SALES,"customer service, interpersonal skills, ms office, organizational skills, presentation skills, safety compliance",9,Master's
+INT0516,Sales,SALES,"communication, communication skills, decision making, integrity, motivation, pos systems, problem solving, sales, teamwork",10,Bachelor's
+INT0517,Sales,SALES,"adaptability, communication, customer relationship management, customer service, merchandising, problem solving, sales presentations, team player",5,Bachelor's
+INT0518,Sales,SALES,"customer relationship building, customer relationship management, customer service, independence, organizational skills, problem solving, retail sales, teamwork, visual merchandising",11,Bachelor's
+INT0519,Sales,SALES,"customer relationship management, initiative, integrity, inventory management, market research, problem-solving, sales, team leadership",12,Master's
+INT0520,Sales,SALES,"adaptability, crm software, engagement, inventory management, market analysis",10,Bachelor's
+INT0521,Sales,SALES,"client relationship management, communication, customer relationship management, inventory management, market research, microsoft office suite, organization, problem solving, teamwork",7,Diploma
+INT0522,Sales,SALES,"b2b sales, collaboration, communication, computer skills, crm, multitasking",2,Master's
+INT0523,Sales,SALES,"adaptability, communication, goal-oriented, organization, positive attitude, prioritization, problem solving, relationship building",2,Bachelor's
+INT0524,Sales,SALES,"adaptability, attention to detail, customer relationship management, goal-oriented, parts lookup systems, problem-solving, sales, teamwork",3,Bachelor's
+INT0525,Sales,SALES,"crm software, flexibility, listening, team collaboration, teamwork",7,Master's
+INT0526,Sales,SALES,"adaptability, b2b sales, communication, customer relationship management, independence, ms office, multi-tasking, sales strategy development, teamwork",1,Bachelor's
+INT0527,Sales,SALES,"adaptability, collaboration, flexibility, microsoft office, problem solving, relationship building, sales presentations",5,Bachelor's
+INT0528,Sales,SALES,"communication, presentation skills, problem solving, relationship building, self-motivation",5,Bachelor's
+INT0529,Sales,SALES,"adaptability, customer focus, initiative, organizational skills, problem solving, results-oriented",8,Diploma
+INT0530,Sales,SALES,"communication, customer service, flexibility, sales, teamwork",12,Bachelor's
+INT0531,Sales,SALES,"collaboration, customer focus, customer relationship management, data analytics, initiative, motivation, problem solving, product knowledge, self-motivation",8,Bachelor's
+INT0532,Sales,SALES,"analytical thinking, creativity, product knowledge, sales, sales management, self-starter, teamwork, technology adaptation, time management",3,Bachelor's
+INT0533,Sales,SALES,"b2b sales, communication, contract negotiation, customer relationship management, data analysis, interpersonal skills, positive attitude, problem solving, sales",6,Bachelor's
+INT0534,Sales,SALES,"accountability, independence, problem solving, problem-solving, reporting, teamwork, work ethic",9,Bachelor's
+INT0535,Sales,SALES,"adaptability, communication, problem solving, reporting, sales, territory management, time management",7,Diploma
+INT0536,Sales,SALES,"customer relationship management, flexibility, leadership, organizational skills, problem solving, professionalism, reliability, sales management",10,Bachelor's
+INT0537,Sales,SALES,"communication, customer experience enhancement, merchandising, microsoft office, problem solving, sales metrics analysis, self-starter, team collaboration, teamwork",6,Master's
+INT0538,Sales,SALES,"collaboration, communication, customer engagement, customer focus, team leadership, teamwork, time management",8,Bachelor's
+INT0539,Sales,SALES,"adaptability, client relationship management, contract negotiation, flexibility, goal-oriented, presentation skills, problem solving, product knowledge",12,Master's
+INT0540,Sales,SALES,"communication, ms office, persuasion, pos systems, relationship building, results-oriented mindset, salesforce",1,Diploma
+INT0541,Sales,SALES,"b2b sales, multitasking, self-motivation, team collaboration, time management",7,Diploma
+INT0542,Sales,SALES,"competitive, customer service, market analysis, microsoft office suite, problem solving, sales, sales experience, sales techniques, visual merchandising",5,Bachelor's
+INT0543,Sales,SALES,"business development, coaching, communication, customer focus, saas knowledge, sales performance, teamwork",12,Master's
+INT0544,Sales,SALES,"communication, customer service, presentation skills, product knowledge, strategic thinking, team collaboration, time management",12,Master's
+INT0545,Sales,SALES,"adaptability, communication, organizational skills, safety compliance, sales management",12,Master's
+INT0546,Sales,SALES,"powerpoint, project management, sales, teamwork, technical skills",8,Bachelor's
+INT0547,Sales,SALES,"communication, customer relationship building, leadership, motivation, multi-tasking, negotiation, problem-solving, sales",10,Bachelor's
+INT0548,Sales,SALES,"basic math skills, battery installation, communication, inventory management, product knowledge",12,Diploma
+INT0549,Sales,SALES,"adaptability, communication, competitive, customer service, leadership, problem-solving, respectfulness",5,Diploma
+INT0550,Sales,SALES,"adaptability, coaching, customer engagement, motivation, organizational skills",1,Diploma
+INT0551,Sales,SALES,"account management, adaptability, communication, interpersonal skills, presentation skills, sales, teamwork",1,Bachelor's
+INT0552,Sales,SALES,"adaptability, customer focus, marketing, problem solving, problem-solving, product knowledge, sales, teamwork, territory management",6,Bachelor's
+INT0553,Sales,SALES,"budgeting, collaboration, computer skills, reliability, team collaboration",7,Master's
+INT0554,Sales,SALES,"communication, crm software, microsoft office suite, organizational skills, problem solving, training",2,Bachelor's
+INT0555,Sales,SALES,"adaptability, collaboration, customer service, leadership, problem solving",4,Diploma
+INT0556,Sales,SALES,"adaptability, creativity, customer service, lead generation, problem-solving, relationship building, sales experience",9,Bachelor's
+INT0557,Sales,SALES,"adaptability, business development, negotiation, pos systems, relationship building, relationship management, sales metrics analysis, self-motivation, strategic planning",11,Bachelor's
+INT0558,Sales,SALES,"customer relationship management, customer service, leadership, microsoft office, problem solving, project management, sales strategies, technical skills",1,Diploma
+INT0559,Sales,SALES,"communication, creativity, crm software, customer service, interpersonal skills, presentation skills, relationship building, self-motivation",10,Bachelor's
+INT0560,Sales,SALES,"business development, independence, initiative, negotiation, organization, problem solving, stock management, team selling, teamwork, work ethic",2,Bachelor's
+INT0561,Sales,SALES,"adaptability, communication, documentation, flexibility, independence, microsoft office, problem solving, product knowledge, professionalism, training",3,Bachelor's
+INT0562,Sales,SALES,"adaptability, communication, customer service, documentation, interpersonal skills",3,Bachelor's
+INT0563,Sales,SALES,"communication, customer service, data entry, decision making, inventory management, problem solving, team leadership, teamwork",11,Diploma
+INT0564,Sales,SALES,"communication, market research, organizational skills, sales management, teamwork",8,Bachelor's
+INT0565,Sales,SALES,"enthusiasm, financial analysis, sales strategy, sales techniques, teamwork",3,Bachelor's
+INT0566,Sales,SALES,"communication, customer relationship management, customer service, detail-oriented, microsoft office, sales, technology adaptation, training and development",1,Bachelor's
+INT0567,Sales,SALES,"accountability, creativity, customer service, influence, organizational skills, pipeline management, sales, self-motivation",6,Bachelor's
+INT0568,Sales,SALES,"adaptability, business acumen, collaboration, customer relationship management, merchandising, microsoft office suite, persuasion, problem solving, training",12,Bachelor's
+INT0569,Sales,SALES,"enthusiasm, motivation, negotiation, problem solving, project management, self-motivation, teamwork",4,Diploma
+INT0570,Sales,SALES,"attention to detail, budgeting, communication, customer service, growth mindset, sales leadership, team leadership, technology adaptation",1,Bachelor's
+INT0571,Sales,SALES,"communication, customer focus, flexibility, persistence, product knowledge, sales techniques, teamwork",3,Diploma
+INT0572,Sales,SALES,"basic computer skills, business development, communication, contract negotiation, customer engagement, marketing, sales, teamwork",11,Bachelor's
+INT0573,Sales,SALES,"engagement, negotiation, parts lookup systems, pos systems, team collaboration",2,Bachelor's
+INT0574,Sales,SALES,"customer focus, customer service, problem-solving, technology proficiency, time management",6,Master's
+INT0575,Sales,SALES,"engagement, growth mindset, organizational skills, sales performance, teamwork",10,Bachelor's
+INT0576,Sales,SALES,"customer relationship management, customer service, judgment, merchandising, teamwork",4,Master's
+INT0577,Sales,SALES,"cash handling, communication, ms office, pos systems, problem solving, sales, teamwork",12,Bachelor's
+INT0578,Sales,SALES,"adaptability, growth mindset, product knowledge, professionalism, sales, teamwork, territory management, time management",10,Bachelor's
+INT0579,Sales,SALES,"account management, attention to detail, communication, customer service orientation, integrity, persuasiveness, problem solving, teamwork, time management",2,Diploma
+INT0580,Sales,SALES,"adaptability, client relationship management, collaboration, inventory management, microsoft office, problem solving, self-motivation, time management, training",8,Master's
+INT0581,Sales,SALES,"communication, competitive, interpersonal skills, positive attitude, problem solving",8,Diploma
+INT0582,Sales,SALES,"communication, inventory management, problem solving, relationship building, teamwork",4,Bachelor's
+INT0583,Sales,SALES,"customer engagement, customer service, leadership, product knowledge, results oriented, teamwork, time management",7,Bachelor's
+INT0584,Sales,SALES,"communication, lead generation, pos systems, problem solving, salesforce",7,Bachelor's
+INT0585,Sales,SALES,"analytical skills, motivation, problem solving, professionalism, sales performance, teamwork",5,Bachelor's
+INT0586,Sales,SALES,"adaptability, collaboration, customer service, self-starter, teamwork, time management",11,Bachelor's
+INT0587,Sales,SALES,"b2b sales, basic math skills, customer engagement, customer service, problem solving, relationship building, sales, stocking, time management",5,Master's
+INT0588,Sales,SALES,"customer engagement, data analysis, interpersonal skills, leadership, project management",3,Diploma
+INT0589,Sales,SALES,"attention to detail, communication, customer focus, customer service, project management, results oriented, results-oriented mindset",8,Bachelor's
+INT0590,Sales,SALES,"adaptability, business development, communication, lifting (up to 50 pounds), merchandising, project management, teamwork, time management",1,Bachelor's
+INT0591,Sales,SALES,"flexibility, organizational skills, problem solving, reporting, salesforce, self-starter, social media marketing, teamwork",3,Master's
+INT0592,Sales,SALES,"communication, customer service, integrity, multitasking, relationship building, technical skills",7,Bachelor's
+INT0593,Sales,SALES,"creativity, customer relationship management, marketing, organizational skills, pos systems, presentation skills, problem solving",9,Bachelor's
+INT0594,Sales,SALES,"business development, communication, merchandising, microsoft office, multitasking, positive attitude, sales experience, self-starter",6,Bachelor's
+INT0595,Sales,SALES,"business development, collaboration, inventory management, leadership, multitasking, sales strategy development",6,Bachelor's
+INT0596,Sales,SALES,"attention to detail, communication, customer service, positive attitude, presentation, product knowledge",8,Bachelor's
+INT0597,Sales,SALES,"automotive system knowledge, consultative sales, erp systems, flexibility, outside sales, positive attitude, problem solving, product knowledge, professionalism, relationship building",2,Master's
+INT0598,Sales,SALES,"communication, customer relationship building, customer service, problem solving, teamwork",8,Bachelor's
+INT0599,Sales,SALES,"adaptability, consultative selling, goal-oriented, integrity, inventory management, relationship building",8,Bachelor's
+INT0600,Sales,SALES,"communication, customer service, interpersonal communication, leadership, problem solving, strategic planning",11,Diploma
